@@ -1,5 +1,5 @@
 # Awesome-Login-System
-##Demo 
+# Demo 
 [http://demo.jukemaasmo.com/Login%20&%20Registration-system/] (demo)
 Writing a registration system is a lot of work. You have to write code that validates email addresses, sends confirmation emails, provides forgotten password functionality, stores passwords securely, validates input forms and a lot more. Even when you do all of this, users will still be reluctant to register as it involves a lot of effort on their part as well.
 
